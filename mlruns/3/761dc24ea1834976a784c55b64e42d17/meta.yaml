@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/761dc24ea1834976a784c55b64e42d17/artifacts
+end_time: 1700692894562
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 761dc24ea1834976a784c55b64e42d17
+run_name: calm-bird-732
+run_uuid: 761dc24ea1834976a784c55b64e42d17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700692890365
+status: 3
+tags: []
+user_id: medsabkhi

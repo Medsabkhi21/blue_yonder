@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3
+creation_time: 1700692602452
+experiment_id: '3'
+last_update_time: 1700692602452
+lifecycle_stage: active
+name: hyper params tuning poisson SGD

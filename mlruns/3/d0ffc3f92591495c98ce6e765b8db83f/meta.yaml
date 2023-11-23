@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/d0ffc3f92591495c98ce6e765b8db83f/artifacts
+end_time: 1700693246434
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: d0ffc3f92591495c98ce6e765b8db83f
+run_name: abrasive-loon-650
+run_uuid: d0ffc3f92591495c98ce6e765b8db83f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700693245427
+status: 4
+tags: []
+user_id: medsabkhi

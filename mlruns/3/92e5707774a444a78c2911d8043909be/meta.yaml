@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/92e5707774a444a78c2911d8043909be/artifacts
+end_time: 1700692728856
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 92e5707774a444a78c2911d8043909be
+run_name: casual-turtle-43
+run_uuid: 92e5707774a444a78c2911d8043909be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700692723764
+status: 3
+tags: []
+user_id: medsabkhi

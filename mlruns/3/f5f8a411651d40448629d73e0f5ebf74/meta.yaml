@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/f5f8a411651d40448629d73e0f5ebf74/artifacts
+end_time: 1700692800913
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: f5f8a411651d40448629d73e0f5ebf74
+run_name: abundant-pug-497
+run_uuid: f5f8a411651d40448629d73e0f5ebf74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700692795357
+status: 3
+tags: []
+user_id: medsabkhi

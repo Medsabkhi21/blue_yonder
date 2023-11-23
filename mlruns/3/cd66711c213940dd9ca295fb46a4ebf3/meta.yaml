@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/cd66711c213940dd9ca295fb46a4ebf3/artifacts
+end_time: 1700692648393
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: cd66711c213940dd9ca295fb46a4ebf3
+run_name: kindly-mole-871
+run_uuid: cd66711c213940dd9ca295fb46a4ebf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700692644233
+status: 3
+tags: []
+user_id: medsabkhi

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/03d2a0e830fe4f3c8a51736c9fd6d418/artifacts
+end_time: 1700692624880
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 03d2a0e830fe4f3c8a51736c9fd6d418
+run_name: efficient-shad-224
+run_uuid: 03d2a0e830fe4f3c8a51736c9fd6d418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700692620618
+status: 3
+tags: []
+user_id: medsabkhi

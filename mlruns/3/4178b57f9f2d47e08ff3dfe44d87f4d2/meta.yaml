@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/4178b57f9f2d47e08ff3dfe44d87f4d2/artifacts
+end_time: 1700693339862
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 4178b57f9f2d47e08ff3dfe44d87f4d2
+run_name: masked-lynx-591
+run_uuid: 4178b57f9f2d47e08ff3dfe44d87f4d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700693335055
+status: 3
+tags: []
+user_id: medsabkhi

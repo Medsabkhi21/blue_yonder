@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/98fa88e5b2e643ce81708c3f227516eb/artifacts
+end_time: 1700692629212
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 98fa88e5b2e643ce81708c3f227516eb
+run_name: fun-auk-744
+run_uuid: 98fa88e5b2e643ce81708c3f227516eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700692624891
+status: 3
+tags: []
+user_id: medsabkhi

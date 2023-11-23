@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/da8e82512a8741e79c7ea883ea304504/artifacts
+end_time: 1700692872781
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: da8e82512a8741e79c7ea883ea304504
+run_name: angry-sheep-623
+run_uuid: da8e82512a8741e79c7ea883ea304504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700692867829
+status: 3
+tags: []
+user_id: medsabkhi
