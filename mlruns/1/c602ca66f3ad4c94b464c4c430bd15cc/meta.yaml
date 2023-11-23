@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1/c602ca66f3ad4c94b464c4c430bd15cc/artifacts
+end_time: 1700754378090
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c602ca66f3ad4c94b464c4c430bd15cc
+run_name: righteous-hawk-491
+run_uuid: c602ca66f3ad4c94b464c4c430bd15cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700754365596
+status: 3
+tags: []
+user_id: medsabkhi

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1/687303e493db4ba1a7af4add1ed8d10b/artifacts
+end_time: 1700754402203
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 687303e493db4ba1a7af4add1ed8d10b
+run_name: clean-croc-336
+run_uuid: 687303e493db4ba1a7af4add1ed8d10b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700754389523
+status: 3
+tags: []
+user_id: medsabkhi
