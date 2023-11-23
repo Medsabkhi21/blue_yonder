@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/b7f5c6d079e4446981d4b7325f8ff671/artifacts
+deleted_time: 1700731959926
 end_time: 1700693314867
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b7f5c6d079e4446981d4b7325f8ff671
 run_name: whimsical-sow-17
 run_uuid: b7f5c6d079e4446981d4b7325f8ff671

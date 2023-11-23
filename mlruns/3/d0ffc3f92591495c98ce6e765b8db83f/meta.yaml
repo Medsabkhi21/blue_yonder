@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/d0ffc3f92591495c98ce6e765b8db83f/artifacts
+deleted_time: 1700731959930
 end_time: 1700693246434
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d0ffc3f92591495c98ce6e765b8db83f
 run_name: abrasive-loon-650
 run_uuid: d0ffc3f92591495c98ce6e765b8db83f

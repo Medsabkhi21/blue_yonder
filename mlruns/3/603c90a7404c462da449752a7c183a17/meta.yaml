@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/603c90a7404c462da449752a7c183a17/artifacts
+deleted_time: 1700733550065
 end_time: 1700692652597
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 603c90a7404c462da449752a7c183a17
 run_name: dazzling-newt-209
 run_uuid: 603c90a7404c462da449752a7c183a17

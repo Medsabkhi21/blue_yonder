@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/747f1c2530254958824fa45a47218dfb/artifacts
+deleted_time: 1700731960016
 end_time: 1700692824457
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 747f1c2530254958824fa45a47218dfb
 run_name: luxuriant-gull-108
 run_uuid: 747f1c2530254958824fa45a47218dfb

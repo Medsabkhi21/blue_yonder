@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/e25e91e9ba494807a5b9aadfcd78e600/artifacts
+deleted_time: 1700733550133
 end_time: 1700692634566
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e25e91e9ba494807a5b9aadfcd78e600
 run_name: wistful-wren-83
 run_uuid: e25e91e9ba494807a5b9aadfcd78e600

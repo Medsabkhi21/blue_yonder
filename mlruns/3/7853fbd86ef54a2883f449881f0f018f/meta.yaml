@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/7853fbd86ef54a2883f449881f0f018f/artifacts
+deleted_time: 1700731959830
 end_time: 1700693454102
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7853fbd86ef54a2883f449881f0f018f
 run_name: blushing-wren-791
 run_uuid: 7853fbd86ef54a2883f449881f0f018f

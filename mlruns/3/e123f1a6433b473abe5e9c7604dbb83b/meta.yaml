@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/e123f1a6433b473abe5e9c7604dbb83b/artifacts
+deleted_time: 1700731959561
+end_time: 1700729581727
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: deleted
+run_id: e123f1a6433b473abe5e9c7604dbb83b
+run_name: unruly-bug-367
+run_uuid: e123f1a6433b473abe5e9c7604dbb83b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700729571758
+status: 4
+tags: []
+user_id: medsabkhi

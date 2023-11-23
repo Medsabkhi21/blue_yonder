@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/d123e489a3d14fe584330bce3638e72c/artifacts
+deleted_time: 1700731959413
+end_time: 1700730865714
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: deleted
+run_id: d123e489a3d14fe584330bce3638e72c
+run_name: polite-cow-525
+run_uuid: d123e489a3d14fe584330bce3638e72c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700730857755
+status: 3
+tags: []
+user_id: medsabkhi

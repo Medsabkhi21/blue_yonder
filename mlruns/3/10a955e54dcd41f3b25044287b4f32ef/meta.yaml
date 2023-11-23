@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/10a955e54dcd41f3b25044287b4f32ef/artifacts
+deleted_time: 1700731959182
+end_time: 1700730814882
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: deleted
+run_id: 10a955e54dcd41f3b25044287b4f32ef
+run_name: clean-snake-612
+run_uuid: 10a955e54dcd41f3b25044287b4f32ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700730807006
+status: 3
+tags: []
+user_id: medsabkhi

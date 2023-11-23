@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/6c4b84077f974ae8895eeedfe0a6ed8f/artifacts
+end_time: 1700733610560
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 6c4b84077f974ae8895eeedfe0a6ed8f
+run_name: gentle-auk-547
+run_uuid: 6c4b84077f974ae8895eeedfe0a6ed8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700733601658
+status: 3
+tags: []
+user_id: medsabkhi

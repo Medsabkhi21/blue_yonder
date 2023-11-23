@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/6297cea8ed98486eae930a6516cfd287/artifacts
+end_time: 1700736205860
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 6297cea8ed98486eae930a6516cfd287
+run_name: capable-shark-16
+run_uuid: 6297cea8ed98486eae930a6516cfd287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700736196054
+status: 3
+tags: []
+user_id: medsabkhi

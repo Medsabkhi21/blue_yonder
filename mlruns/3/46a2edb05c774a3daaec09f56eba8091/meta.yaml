@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/46a2edb05c774a3daaec09f56eba8091/artifacts
+deleted_time: 1700731959740
+end_time: 1700727992840
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: deleted
+run_id: 46a2edb05c774a3daaec09f56eba8091
+run_name: burly-tern-615
+run_uuid: 46a2edb05c774a3daaec09f56eba8091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700727977180
+status: 3
+tags: []
+user_id: medsabkhi

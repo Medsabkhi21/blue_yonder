@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/5c6736033f2c47f1b1338aa3e5421b52/artifacts
+deleted_time: 1700731960081
 end_time: 1700692795129
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5c6736033f2c47f1b1338aa3e5421b52
 run_name: bemused-shrimp-866
 run_uuid: 5c6736033f2c47f1b1338aa3e5421b52

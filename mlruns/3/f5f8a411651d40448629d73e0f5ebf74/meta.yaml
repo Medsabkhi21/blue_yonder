@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/f5f8a411651d40448629d73e0f5ebf74/artifacts
+deleted_time: 1700731960063
 end_time: 1700692800913
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f5f8a411651d40448629d73e0f5ebf74
 run_name: abundant-pug-497
 run_uuid: f5f8a411651d40448629d73e0f5ebf74

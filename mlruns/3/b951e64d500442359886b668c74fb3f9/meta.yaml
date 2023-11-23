@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/b951e64d500442359886b668c74fb3f9/artifacts
+deleted_time: 1700731960126
 end_time: 1700692767896
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b951e64d500442359886b668c74fb3f9
 run_name: fortunate-hen-465
 run_uuid: b951e64d500442359886b668c74fb3f9

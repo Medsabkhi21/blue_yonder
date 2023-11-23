@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/c2636e621d9e4f1daf5284fe82cce7e4/artifacts
+deleted_time: 1700733550157
 end_time: 1700692615198
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c2636e621d9e4f1daf5284fe82cce7e4
 run_name: awesome-smelt-749
 run_uuid: c2636e621d9e4f1daf5284fe82cce7e4

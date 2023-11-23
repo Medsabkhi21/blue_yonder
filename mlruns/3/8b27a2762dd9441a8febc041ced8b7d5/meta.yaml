@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/8b27a2762dd9441a8febc041ced8b7d5/artifacts
+deleted_time: 1700731960046
 end_time: 1700692818414
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8b27a2762dd9441a8febc041ced8b7d5
 run_name: omniscient-skink-306
 run_uuid: 8b27a2762dd9441a8febc041ced8b7d5

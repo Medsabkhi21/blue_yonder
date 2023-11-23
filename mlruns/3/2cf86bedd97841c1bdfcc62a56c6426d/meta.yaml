@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/2cf86bedd97841c1bdfcc62a56c6426d/artifacts
+deleted_time: 1700731959672
+end_time: 1700728074095
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: deleted
+run_id: 2cf86bedd97841c1bdfcc62a56c6426d
+run_name: fearless-cod-511
+run_uuid: 2cf86bedd97841c1bdfcc62a56c6426d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700728059802
+status: 3
+tags: []
+user_id: medsabkhi

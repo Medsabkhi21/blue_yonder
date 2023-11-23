@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/b1c8a6ef66244ae283f11c1f297f6748/artifacts
+end_time: 1700736259107
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: b1c8a6ef66244ae283f11c1f297f6748
+run_name: bouncy-swan-165
+run_uuid: b1c8a6ef66244ae283f11c1f297f6748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700736251084
+status: 3
+tags: []
+user_id: medsabkhi

@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/d4b9c597ec7c4308bd8391781e80776b/artifacts
+deleted_time: 1700731959896
 end_time: 1700693325401
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d4b9c597ec7c4308bd8391781e80776b
 run_name: vaunted-loon-361
 run_uuid: d4b9c597ec7c4308bd8391781e80776b

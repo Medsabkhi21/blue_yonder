@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/aa53fa7c3a91422faf053eacd2d04827/artifacts
+deleted_time: 1700731960007
 end_time: 1700692863206
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: aa53fa7c3a91422faf053eacd2d04827
 run_name: wise-panda-723
 run_uuid: aa53fa7c3a91422faf053eacd2d04827

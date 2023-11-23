@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/579231e640bc42e8b32651cb4b845a48/artifacts
+deleted_time: 1700731959338
+end_time: 1700731348227
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: deleted
+run_id: 579231e640bc42e8b32651cb4b845a48
+run_name: powerful-ray-634
+run_uuid: 579231e640bc42e8b32651cb4b845a48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700731339994
+status: 3
+tags: []
+user_id: medsabkhi

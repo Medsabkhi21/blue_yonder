@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/8f310128770f4b639661c4395d4904fe/artifacts
+deleted_time: 1700731959859
 end_time: 1700693349100
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8f310128770f4b639661c4395d4904fe
 run_name: gaudy-loon-520
 run_uuid: 8f310128770f4b639661c4395d4904fe

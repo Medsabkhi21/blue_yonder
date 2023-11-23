@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/4615bba6298e44eda92d71b443225993/artifacts
+deleted_time: 1700731960027
 end_time: 1700692858312
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4615bba6298e44eda92d71b443225993
 run_name: unequaled-yak-635
 run_uuid: 4615bba6298e44eda92d71b443225993

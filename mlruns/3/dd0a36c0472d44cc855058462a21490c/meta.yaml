@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/dd0a36c0472d44cc855058462a21490c/artifacts
+deleted_time: 1700731959827
 end_time: 1700693458951
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: dd0a36c0472d44cc855058462a21490c
 run_name: vaunted-auk-808
 run_uuid: dd0a36c0472d44cc855058462a21490c

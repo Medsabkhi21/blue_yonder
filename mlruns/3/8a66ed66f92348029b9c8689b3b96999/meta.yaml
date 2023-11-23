@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/8a66ed66f92348029b9c8689b3b96999/artifacts
+end_time: 1700733668122
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 8a66ed66f92348029b9c8689b3b96999
+run_name: fearless-stag-883
+run_uuid: 8a66ed66f92348029b9c8689b3b96999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700733658039
+status: 3
+tags: []
+user_id: medsabkhi

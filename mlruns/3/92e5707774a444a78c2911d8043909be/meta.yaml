@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/92e5707774a444a78c2911d8043909be/artifacts
+deleted_time: 1700733550040
 end_time: 1700692728856
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 92e5707774a444a78c2911d8043909be
 run_name: casual-turtle-43
 run_uuid: 92e5707774a444a78c2911d8043909be

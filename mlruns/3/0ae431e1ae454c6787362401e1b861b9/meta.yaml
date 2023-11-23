@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/0ae431e1ae454c6787362401e1b861b9/artifacts
+deleted_time: 1700733550019
 end_time: 1700692744421
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0ae431e1ae454c6787362401e1b861b9
 run_name: redolent-koi-499
 run_uuid: 0ae431e1ae454c6787362401e1b861b9

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/f4b9a46ac2fc4ff5a4d4cceb471fac9c/artifacts
+deleted_time: 1700733549988
+end_time: 1700732038319
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: deleted
+run_id: f4b9a46ac2fc4ff5a4d4cceb471fac9c
+run_name: merciful-hawk-639
+run_uuid: f4b9a46ac2fc4ff5a4d4cceb471fac9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700732028985
+status: 3
+tags: []
+user_id: medsabkhi

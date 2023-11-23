@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/956251f9d60c493f929395f5e95c7ed2/artifacts
+deleted_time: 1700731960140
 end_time: 1700692762545
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 956251f9d60c493f929395f5e95c7ed2
 run_name: gregarious-mare-902
 run_uuid: 956251f9d60c493f929395f5e95c7ed2

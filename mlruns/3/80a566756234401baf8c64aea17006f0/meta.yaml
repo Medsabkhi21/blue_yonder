@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/80a566756234401baf8c64aea17006f0/artifacts
+deleted_time: 1700731959853
 end_time: 1700693354005
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 80a566756234401baf8c64aea17006f0
 run_name: classy-asp-193
 run_uuid: 80a566756234401baf8c64aea17006f0

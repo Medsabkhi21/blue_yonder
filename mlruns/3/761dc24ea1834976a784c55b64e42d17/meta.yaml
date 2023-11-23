@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/761dc24ea1834976a784c55b64e42d17/artifacts
+deleted_time: 1700731959936
 end_time: 1700692894562
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 761dc24ea1834976a784c55b64e42d17
 run_name: calm-bird-732
 run_uuid: 761dc24ea1834976a784c55b64e42d17

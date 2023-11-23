@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/98fa88e5b2e643ce81708c3f227516eb/artifacts
+deleted_time: 1700733550136
 end_time: 1700692629212
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 98fa88e5b2e643ce81708c3f227516eb
 run_name: fun-auk-744
 run_uuid: 98fa88e5b2e643ce81708c3f227516eb

@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/e009bfe6d52a4387ad0bd34535d7f95f/artifacts
+deleted_time: 1700731959818
 end_time: 1700693464531
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e009bfe6d52a4387ad0bd34535d7f95f
 run_name: zealous-hawk-532
 run_uuid: e009bfe6d52a4387ad0bd34535d7f95f

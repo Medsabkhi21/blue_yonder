@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/847b1c208e254d5fb0c9c8038c7df785/artifacts
+deleted_time: 1700731959949
 end_time: 1700692890354
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 847b1c208e254d5fb0c9c8038c7df785
 run_name: powerful-colt-805
 run_uuid: 847b1c208e254d5fb0c9c8038c7df785

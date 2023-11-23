@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/c42d94a411fd44309d98255be21d01b3/artifacts
+deleted_time: 1700731960107
 end_time: 1700692782902
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c42d94a411fd44309d98255be21d01b3
 run_name: rumbling-gnu-440
 run_uuid: c42d94a411fd44309d98255be21d01b3

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/a78d9f2f465b46718960d26e6de090b8/artifacts
+deleted_time: 1700733549981
+end_time: 1700732046166
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: deleted
+run_id: a78d9f2f465b46718960d26e6de090b8
+run_name: righteous-fly-732
+run_uuid: a78d9f2f465b46718960d26e6de090b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700732038337
+status: 3
+tags: []
+user_id: medsabkhi

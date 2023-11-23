@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/cb9ae5dc19794eceaec7985f2b3f289b/artifacts
+deleted_time: 1700731959779
 end_time: 1700693484552
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cb9ae5dc19794eceaec7985f2b3f289b
 run_name: upset-duck-197
 run_uuid: cb9ae5dc19794eceaec7985f2b3f289b

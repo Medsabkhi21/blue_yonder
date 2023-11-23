@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/81be3adbbd6d42caaa45208ee18c798a/artifacts
+deleted_time: 1700731959445
+end_time: 1700729730061
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: deleted
+run_id: 81be3adbbd6d42caaa45208ee18c798a
+run_name: wise-mule-965
+run_uuid: 81be3adbbd6d42caaa45208ee18c798a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700729719912
+status: 3
+tags: []
+user_id: medsabkhi

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/097e9a3f7c29473c9c0f1bb3ba29f864/artifacts
+deleted_time: 1700731959433
+end_time: 1700730857734
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: deleted
+run_id: 097e9a3f7c29473c9c0f1bb3ba29f864
+run_name: smiling-skink-363
+run_uuid: 097e9a3f7c29473c9c0f1bb3ba29f864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700730850163
+status: 3
+tags: []
+user_id: medsabkhi

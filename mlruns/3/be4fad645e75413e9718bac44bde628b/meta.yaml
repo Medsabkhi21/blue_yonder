@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/be4fad645e75413e9718bac44bde628b/artifacts
+deleted_time: 1700731959903
 end_time: 1700693320313
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: be4fad645e75413e9718bac44bde628b
 run_name: chill-cow-170
 run_uuid: be4fad645e75413e9718bac44bde628b

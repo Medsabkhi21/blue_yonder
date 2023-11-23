@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/11a4a4b98c024923953c6ec78612ed90/artifacts
+deleted_time: 1700731959892
 end_time: 1700693330184
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 11a4a4b98c024923953c6ec78612ed90
 run_name: unequaled-mule-621
 run_uuid: 11a4a4b98c024923953c6ec78612ed90

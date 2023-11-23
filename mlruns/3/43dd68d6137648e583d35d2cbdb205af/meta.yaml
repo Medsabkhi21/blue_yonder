@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/43dd68d6137648e583d35d2cbdb205af/artifacts
+deleted_time: 1700731960118
 end_time: 1700692777336
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 43dd68d6137648e583d35d2cbdb205af
 run_name: receptive-quail-985
 run_uuid: 43dd68d6137648e583d35d2cbdb205af

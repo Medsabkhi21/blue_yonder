@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/cad24817b4e146b08af8c0d10d31f8e2/artifacts
+deleted_time: 1700733550110
 end_time: 1700692640164
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cad24817b4e146b08af8c0d10d31f8e2
 run_name: colorful-bird-801
 run_uuid: cad24817b4e146b08af8c0d10d31f8e2

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/66153ccb1e2b4a59937d77d0128b47f7/artifacts
+end_time: 1700733601636
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 66153ccb1e2b4a59937d77d0128b47f7
+run_name: nosy-kit-956
+run_uuid: 66153ccb1e2b4a59937d77d0128b47f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700733592918
+status: 3
+tags: []
+user_id: medsabkhi

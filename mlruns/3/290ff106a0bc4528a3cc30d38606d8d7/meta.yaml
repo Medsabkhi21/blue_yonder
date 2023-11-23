@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/3/290ff106a0bc4528a3cc30d38606d8d7/artifacts
+deleted_time: 1700731959789
 end_time: 1700693474748
 entry_point_name: ''
 experiment_id: '3'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 290ff106a0bc4528a3cc30d38606d8d7
 run_name: honorable-mare-39
 run_uuid: 290ff106a0bc4528a3cc30d38606d8d7
