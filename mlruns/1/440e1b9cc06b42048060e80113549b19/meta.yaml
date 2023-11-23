@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1/440e1b9cc06b42048060e80113549b19/artifacts
+end_time: 1700762039594
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 440e1b9cc06b42048060e80113549b19
+run_name: big-steed-921
+run_uuid: 440e1b9cc06b42048060e80113549b19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700762030516
+status: 3
+tags: []
+user_id: medsabkhi

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1/0cc10158734841d497c03247ff3f5056/artifacts
+end_time: 1700758856555
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0cc10158734841d497c03247ff3f5056
+run_name: amazing-frog-721
+run_uuid: 0cc10158734841d497c03247ff3f5056
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700758847115
+status: 3
+tags: []
+user_id: medsabkhi

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1/97256537a5504ba5829841d5cdfe089a/artifacts
+end_time: 1700759910829
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 97256537a5504ba5829841d5cdfe089a
+run_name: silent-mule-575
+run_uuid: 97256537a5504ba5829841d5cdfe089a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700759901646
+status: 3
+tags: []
+user_id: medsabkhi

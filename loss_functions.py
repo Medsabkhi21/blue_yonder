@@ -11,6 +11,9 @@ def poisson_loss(predictions:torch.Tensor, demand:torch.Tensor):
     :return: The calculated poisson loss
     
     """
+    if torch.any(demand <= 0):
+        raise ValueError("Demand values must be positive.")
+
     epsilon = 1e-10  # Small constant to avoid log(0)
 
     # Calculate the mean of the Poisson distribution based on predictions
@@ -33,13 +36,16 @@ def poisson_loss_with_penality(predictions:torch.Tensor, demand:torch.Tensor, st
     :param stocks: Calculate the exceeded stock penalty
     :return: The combined poisson loss and exceeded stock penalty
     """
+    if torch.any(demand <= 0):
+        raise ValueError("Demand values must be positive.")
+    
     epsilon = 1e-10  # Small constant to avoid log(0)
 
     # Calculate the mean of the Poisson distribution based on predictions
     lambda_ = torch.exp(predictions)
 
     # Poisson loss formula
-    poisson_loss = lambda_ - sales * torch.log(lambda_ + epsilon)
+    poisson_loss = lambda_ - demand * torch.log(lambda_ + epsilon)
 
     # Mean of the Poisson loss across all examples
     poisson_loss = torch.mean(poisson_loss)
@@ -63,7 +69,9 @@ def mse_loss_function(predictions:torch.Tensor,demand:torch.Tensor):
     :param sales: Calculate the loss
     :return: The mean squared error loss between the predictions and sales
     """
-    mse_loss = nn.functional.mse_loss(demand, sales)
+    if torch.any(demand <= 0):
+        raise ValueError("Demand values must be positive ")
+    mse_loss = nn.functional.mse_loss(predictions, demand)
     return mse_loss
 
 
@@ -91,6 +99,9 @@ def forecast_loss(predictions:torch.Tensor, demand:torch.Tensor, stocks:torch.Te
     :param loss_function: Select the loss function to be used
     :return: The loss value for a given set of predictions, sales and stocks
     """
+    if torch.any(demand < 0.):
+        raise ValueError("Demand values must be positive")
+    
     if loss_function =="poisson":
         return poisson_loss(predictions,demand)
     elif loss_function =="poisson_with_penality":

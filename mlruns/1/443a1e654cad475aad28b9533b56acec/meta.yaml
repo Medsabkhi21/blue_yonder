@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1/443a1e654cad475aad28b9533b56acec/artifacts
+end_time: 1700758882061
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 443a1e654cad475aad28b9533b56acec
+run_name: selective-duck-707
+run_uuid: 443a1e654cad475aad28b9533b56acec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700758873696
+status: 3
+tags: []
+user_id: medsabkhi

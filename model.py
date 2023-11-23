@@ -16,7 +16,8 @@ class MeanModel(nn.Module):
        super(MeanModel, self).__init__()
        self.mean = nn.Parameter(torch.randn(1))
   
-    def forward(self, n:int):
+    def forward(self, n):
+       
        """
        The forward function returns a tensor of size n with all elements equal to the mean.
        
@@ -24,4 +25,6 @@ class MeanModel(nn.Module):
        :param n: Specify the number of samples to draw
        :return: A tensor with the same size as n
        """
+       if n == 0:
+         raise ValueError("Demand values must be positive ")
        return self.mean * torch.ones(n)

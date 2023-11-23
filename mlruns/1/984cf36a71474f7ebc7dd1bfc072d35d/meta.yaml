@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1/984cf36a71474f7ebc7dd1bfc072d35d/artifacts
+end_time: 1700758889598
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 984cf36a71474f7ebc7dd1bfc072d35d
+run_name: crawling-elk-256
+run_uuid: 984cf36a71474f7ebc7dd1bfc072d35d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700758882078
+status: 3
+tags: []
+user_id: medsabkhi

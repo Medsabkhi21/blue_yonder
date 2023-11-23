@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1/97fe609c88af417bb5bdfe5be39bf951/artifacts
+end_time: 1700758839121
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 97fe609c88af417bb5bdfe5be39bf951
+run_name: thundering-doe-3
+run_uuid: 97fe609c88af417bb5bdfe5be39bf951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700758830284
+status: 3
+tags: []
+user_id: medsabkhi

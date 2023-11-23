@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1/2b5beec3b8c94593a35fef4ace3f850a/artifacts
+end_time: 1700759951794
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2b5beec3b8c94593a35fef4ace3f850a
+run_name: bold-squid-367
+run_uuid: 2b5beec3b8c94593a35fef4ace3f850a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700759944277
+status: 3
+tags: []
+user_id: medsabkhi

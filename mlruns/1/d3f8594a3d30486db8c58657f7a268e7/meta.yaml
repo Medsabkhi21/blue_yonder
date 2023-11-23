@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1/d3f8594a3d30486db8c58657f7a268e7/artifacts
+end_time: 1700762074855
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d3f8594a3d30486db8c58657f7a268e7
+run_name: placid-sheep-631
+run_uuid: d3f8594a3d30486db8c58657f7a268e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700762066733
+status: 3
+tags: []
+user_id: medsabkhi

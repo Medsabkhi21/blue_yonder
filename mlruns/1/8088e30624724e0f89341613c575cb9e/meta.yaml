@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1/8088e30624724e0f89341613c575cb9e/artifacts
+end_time: 1700758865453
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8088e30624724e0f89341613c575cb9e
+run_name: grandiose-ape-246
+run_uuid: 8088e30624724e0f89341613c575cb9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700758856571
+status: 3
+tags: []
+user_id: medsabkhi
