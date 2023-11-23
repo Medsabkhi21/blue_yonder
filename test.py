@@ -87,7 +87,7 @@ class TestForecast(unittest.TestCase):
         :return: assertion response
         """
         # loading specific model from mlflow
-        run_id = "c54716f5ad624750b3d631426e998c37"
+        run_id = "e1b99fa2b9f7476ba22b1e97701bd0b7"
         logged_model = f'runs:/{run_id}/models'
         model = mlflow.pytorch.load_model(logged_model)
 

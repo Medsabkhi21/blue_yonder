@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1/f890b8a54b6a465ea3933abb65b0e8ad/artifacts
+end_time: 1700757437240
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f890b8a54b6a465ea3933abb65b0e8ad
+run_name: bright-goat-250
+run_uuid: f890b8a54b6a465ea3933abb65b0e8ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700757427447
+status: 3
+tags: []
+user_id: medsabkhi

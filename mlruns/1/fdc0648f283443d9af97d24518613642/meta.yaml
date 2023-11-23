@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1/fdc0648f283443d9af97d24518613642/artifacts
+end_time: 1700757448139
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fdc0648f283443d9af97d24518613642
+run_name: welcoming-dog-106
+run_uuid: fdc0648f283443d9af97d24518613642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700757437259
+status: 3
+tags: []
+user_id: medsabkhi

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1/1309e100408b41929222921c7d5bacfa/artifacts
+end_time: 1700757731958
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1309e100408b41929222921c7d5bacfa
+run_name: suave-frog-5
+run_uuid: 1309e100408b41929222921c7d5bacfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700757723891
+status: 3
+tags: []
+user_id: medsabkhi

@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 
 
-def poisson_loss(predictions:torch.Tensor, sales:torch.Tensor):
+def poisson_loss(predictions:torch.Tensor, demand:torch.Tensor):
     """
     The poisson_loss function calculates the Poisson loss 
     
@@ -17,14 +17,14 @@ def poisson_loss(predictions:torch.Tensor, sales:torch.Tensor):
     lambda_ = torch.exp(predictions)
 
     # Poisson loss formula
-    poisson_loss = lambda_ - sales * torch.log(lambda_ + epsilon)
+    poisson_loss = lambda_ - demand * torch.log(lambda_ + epsilon)
 
     # Mean of the Poisson loss across all examples
     poisson_loss = torch.mean(poisson_loss)
     
     return poisson_loss
 
-def poisson_loss_with_penality(predictions:torch.Tensor, sales:torch.Tensor, stocks:torch.Tensor):
+def poisson_loss_with_penality(predictions:torch.Tensor, demand:torch.Tensor, stocks:torch.Tensor):
     """
     The poisson_loss_with_penality function calculates the Poisson loss and adds a penalty for exceeding stock.
     
@@ -52,7 +52,7 @@ def poisson_loss_with_penality(predictions:torch.Tensor, sales:torch.Tensor, sto
 
     return loss
 
-def mse_loss_function(predictions:torch.Tensor,sales:torch.Tensor):
+def mse_loss_function(predictions:torch.Tensor,demand:torch.Tensor):
     """
     The mse_loss_function function takes in two arguments:
     predictions - a tensor of shape (batch_size, 1) containing the predicted sales for each store and date.
@@ -63,7 +63,7 @@ def mse_loss_function(predictions:torch.Tensor,sales:torch.Tensor):
     :param sales: Calculate the loss
     :return: The mean squared error loss between the predictions and sales
     """
-    mse_loss = nn.functional.mse_loss(predictions, sales)
+    mse_loss = nn.functional.mse_loss(demand, sales)
     return mse_loss
 
 
@@ -79,7 +79,7 @@ def calculate_mae(predictions:torch.Tensor, targets:torch.Tensor):
     """
     return torch.mean(torch.abs(predictions - targets))
 
-def forecast_loss(predictions:torch.Tensor, sales:torch.Tensor, stocks:torch.Tensor, loss_function:str="poisson"):
+def forecast_loss(predictions:torch.Tensor, demand:torch.Tensor, stocks:torch.Tensor, loss_function:str="poisson"):
     """
     The forecast_loss function takes in a list of predictions, sales and stocks.
     It then calculates the loss using either the poisson or mse loss function.
@@ -92,11 +92,11 @@ def forecast_loss(predictions:torch.Tensor, sales:torch.Tensor, stocks:torch.Ten
     :return: The loss value for a given set of predictions, sales and stocks
     """
     if loss_function =="poisson":
-        return poisson_loss(predictions,sales)
+        return poisson_loss(predictions,demand)
     elif loss_function =="poisson_with_penality":
-        return poisson_loss_with_penality(predictions,sales,stocks)
+        return poisson_loss_with_penality(predictions,demand,stocks)
     elif loss_function=="mse":
-        return mse_loss_function(predictions,sales)
+        return mse_loss_function(predictions,demand)
     else:
         raise ValueError(f"Unsupported loss function: {loss_function}")
 

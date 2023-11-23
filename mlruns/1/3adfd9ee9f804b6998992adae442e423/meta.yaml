@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1/3adfd9ee9f804b6998992adae442e423/artifacts
+end_time: 1700757773487
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3adfd9ee9f804b6998992adae442e423
+run_name: adaptable-rat-123
+run_uuid: 3adfd9ee9f804b6998992adae442e423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700757765259
+status: 3
+tags: []
+user_id: medsabkhi
