@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1/b4a2512e9c0d40ac90d14d5c9728992a/artifacts
+end_time: 1700751215970
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b4a2512e9c0d40ac90d14d5c9728992a
+run_name: debonair-cub-386
+run_uuid: b4a2512e9c0d40ac90d14d5c9728992a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700751208091
+status: 3
+tags: []
+user_id: medsabkhi

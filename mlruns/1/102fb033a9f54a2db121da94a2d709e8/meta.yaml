@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1/102fb033a9f54a2db121da94a2d709e8/artifacts
+end_time: 1700751231489
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 102fb033a9f54a2db121da94a2d709e8
+run_name: kindly-horse-712
+run_uuid: 102fb033a9f54a2db121da94a2d709e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700751223827
+status: 3
+tags: []
+user_id: medsabkhi

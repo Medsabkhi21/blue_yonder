@@ -1,6 +1,6 @@
 artifact_location: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1
-creation_time: 1700675955911
+creation_time: 1700751166671
 experiment_id: '1'
-last_update_time: 1700675955911
+last_update_time: 1700751166671
 lifecycle_stage: active
-name: experiment_poisson
+name: hyperparams grid search

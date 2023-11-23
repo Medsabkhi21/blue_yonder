@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medsa/OneDrive/Desktop/blue_yonder/mlruns/1/a49ba48408954f6c8a9fe1cac4904c86/artifacts
+end_time: 1700751239251
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a49ba48408954f6c8a9fe1cac4904c86
+run_name: zealous-cow-642
+run_uuid: a49ba48408954f6c8a9fe1cac4904c86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700751231509
+status: 3
+tags: []
+user_id: medsabkhi
