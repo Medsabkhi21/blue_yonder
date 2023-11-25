@@ -6,8 +6,8 @@ def poisson_loss(predictions:torch.Tensor, demand:torch.Tensor):
     """
     The poisson_loss function calculates the Poisson loss 
     
-    :param predictions: Calculate the mean of the poisson distribution
-    :param sales: Calculate the mean of the poisson distribution based on predictions
+    :param predictions: pytorch tensor of the demand predictions.
+    :param demand: pytorch tensor of the demand values
     :return: The calculated poisson loss
     
     """
@@ -32,7 +32,7 @@ def poisson_loss_with_penality(predictions:torch.Tensor, demand:torch.Tensor, st
     The poisson_loss_with_penality function calculates the Poisson loss and adds a penalty for exceeding stock.
     
     :param predictions: Calculate the mean of the poisson distribution
-    :param sales: Calculate the mean of the poisson distribution based on predictions
+    :param demand: Calculate the mean of the poisson distribution based on predictions
     :param stocks: Calculate the exceeded stock penalty
     :return: The combined poisson loss and exceeded stock penalty
     """
@@ -62,12 +62,12 @@ def mse_loss_function(predictions:torch.Tensor,demand:torch.Tensor):
     """
     The mse_loss_function function takes in two arguments:
     predictions - a tensor of shape (batch_size, 1) containing the predicted sales for each store and date.
-    sales - a tensor of shape (batch_size, 1) containing the actual sales for each store and date.
+    demand - a tensor of shape (batch_size, 1) containing the actual demand for each store and date.
     The function returns mse_loss 
     
-    :param predictions: Pass the predicted sales values from the model
-    :param sales: Calculate the loss
-    :return: The mean squared error loss between the predictions and sales
+    :param predictions: Pass the predicted sales  values from the model
+    :param demand: pytorch Tensor of the values
+    :return: The mean squared error loss between the predictions and demand
     """
     if torch.any(demand <= 0):
         raise ValueError("Demand values must be positive ")
@@ -89,13 +89,13 @@ def calculate_mae(predictions:torch.Tensor, targets:torch.Tensor):
 
 def forecast_loss(predictions:torch.Tensor, demand:torch.Tensor, stocks:torch.Tensor, loss_function:str="poisson"):
     """
-    The forecast_loss function takes in a list of predictions, sales and stocks.
+    The forecast_loss function takes in a list of predictions, demand and stocks.
     It then calculates the loss using either the poisson or mse loss function.
     The default is to use the poisson_loss function.
     
     :param predictions: Calculate the loss function
-    :param sales: Calculate the loss function
-    :param stocks: Calculate the loss function
+    :param demand: pytorch tensor of demand values
+    :param stocks: pytorch tensor of stocks values
     :param loss_function: Select the loss function to be used
     :return: The loss value for a given set of predictions, sales and stocks
     """
@@ -104,7 +104,7 @@ def forecast_loss(predictions:torch.Tensor, demand:torch.Tensor, stocks:torch.Te
     
     if loss_function =="poisson":
         return poisson_loss(predictions,demand)
-    elif loss_function =="poisson_with_penality":
+    elif loss_function =="poisson_with_penality": #just for testing this is not the correct solution.
         return poisson_loss_with_penality(predictions,demand,stocks)
     elif loss_function=="mse":
         return mse_loss_function(predictions,demand)
